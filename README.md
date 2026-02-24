@@ -3,7 +3,6 @@ Basic form
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Registration form</title>
 <h2>Form<h2>
 <body>
 <form>
@@ -12,6 +11,9 @@ Name:
 Gender:
 <input type="radio" name="checkbox">male
 <input type="radio" name="checkbox"> female
+<script>
+<option>thailand<option>
+<option>sccotland<option>
 </form>
 </body>
 </head>

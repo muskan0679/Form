@@ -10,8 +10,8 @@ Basic form
 Name:
 <input type="text" name="name"><br>
 Gender:
-<input type="radio" name="g">male
-<input type="radio" name="h"> female
+<input type="radio" name="checkbox">male
+<input type="radio" name="checkbox"> female
 </form>
 </body>
 </head>
